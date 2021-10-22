@@ -1,0 +1,181 @@
+Source,SourceName,Target,TargetName,Weight
+1,Alien #1,2,Alien #2,2
+1,Alien #1,3,Alien #3,1
+1,Alien #1,4,Alien #4,1
+1,Alien #1,27,Sid,1
+1,Alien #1,33,Woody,1
+2,Alien #2,3,Alien #3,1
+2,Alien #2,4,Alien #4,1
+2,Alien #2,27,Sid,1
+2,Alien #2,33,Woody,1
+3,Alien #3,4,Alien #4,1
+1,Alien #1,5,Aliens,1
+2,Alien #2,5,Aliens,1
+3,Alien #3,5,Aliens,1
+4,Alien #4,5,Aliens,1
+5,Aliens,27,Sid,1
+5,Aliens,33,Woody,1
+6,Andy,7,Attendant,1
+6,Andy,8,Bo Peep,5
+6,Andy,11,Friend #2,1
+6,Andy,12,Hamm,4
+6,Andy,18,Mike,1
+6,Andy,21,Mr. Spell,1
+6,Andy,22,Pizza Deliverer,1
+6,Andy,23,RC Car,1
+6,Andy,29,Slinky,3
+8,Bo Peep,12,Hamm,4
+8,Bo Peep,18,Mike,1
+8,Bo Peep,20,Mr. Potato Head,5
+8,Bo Peep,21,Mr. Spell,1
+8,Bo Peep,24,Rex,8
+8,Bo Peep,25,Robot,1
+8,Bo Peep,26,Sergeant,3
+8,Bo Peep,27,Sid,1
+8,Bo Peep,29,Slinky,6
+8,Bo Peep,33,Woody,6
+1,Alien #1,9,Buzz Lightyear,1
+2,Alien #2,9,Buzz Lightyear,1
+3,Alien #3,9,Buzz Lightyear,1
+4,Alien #4,9,Buzz Lightyear,1
+5,Aliens,9,Buzz Lightyear,1
+6,Andy,9,Buzz Lightyear,4
+7,Attendant,9,Buzz Lightyear,2
+8,Bo Peep,9,Buzz Lightyear,3
+9,Buzz Lightyear,14,Kid #1,1
+9,Buzz Lightyear,15,Kid #2,1
+9,Buzz Lightyear,16,Lenny,1
+9,Buzz Lightyear,17,Local Announcer,1
+9,Buzz Lightyear,20,Mr. Potato Head,4
+9,Buzz Lightyear,19,Mom,4
+9,Buzz Lightyear,23,RC Car,1
+9,Buzz Lightyear,24,Rex,2
+9,Buzz Lightyear,25,Robot,1
+9,Buzz Lightyear,26,Sergeant,2
+9,Buzz Lightyear,29,Slinky,3
+9,Buzz Lightyear,31,TV Announcer,1
+9,Buzz Lightyear,32,TV Buzz,1
+9,Buzz Lightyear,33,Woody,18
+6,Andy,10,Friend #1,1
+8,Bo Peep,10,Friend #1,1
+9,Buzz Lightyear,10,Friend #1,1
+10,Friend #1,11,Friend #2,1
+10,Friend #1,12,Hamm,1
+10,Friend #1,19,Mom,1
+10,Friend #1,29,Slinky,1
+8,Bo Peep,11,Friend #2,1
+9,Buzz Lightyear,11,Friend #2,1
+11,Friend #2,12,Hamm,1
+11,Friend #2,19,Mom,1
+11,Friend #2,29,Slinky,1
+9,Buzz Lightyear,12,Hamm,4
+12,Hamm,16,Lenny,1
+12,Hamm,18,Mike,1
+12,Hamm,20,Mr. Potato Head,8
+12,Hamm,21,Mr. Spell,1
+12,Hamm,33,Woody,7
+9,Buzz Lightyear,13,Hannah,2
+13,Hannah,19,Mom,1
+13,Hannah,27,Sid,1
+13,Hannah,33,Woody,3
+14,Kid #1,15,Kid #2,1
+14,Kid #1,17,Local Announcer,1
+14,Kid #1,31,TV Announcer,1
+14,Kid #1,32,TV Buzz,1
+15,Kid #2,17,Local Announcer,1
+15,Kid #2,32,TV Buzz,1
+8,Bo Peep,16,Lenny,1
+16,Lenny,24,Rex,2
+16,Lenny,29,Slinky,2
+18,Mike,21,Mr. Spell,1
+6,Andy,20,Mr. Potato Head,4
+10,Friend #1,20,Mr. Potato Head,1
+11,Friend #2,20,Mr. Potato Head,1
+16,Lenny,20,Mr. Potato Head,1
+18,Mike,20,Mr. Potato Head,1
+20,Mr. Potato Head,21,Mr. Spell,1
+20,Mr. Potato Head,25,Robot,1
+20,Mr. Potato Head,27,Sid,1
+20,Mr. Potato Head,33,Woody,13
+6,Andy,19,Mom,9
+7,Attendant,19,Mom,1
+8,Bo Peep,19,Mom,4
+12,Hamm,19,Mom,3
+20,Mr. Potato Head,19,Mom,3
+19,Mom,22,Pizza Deliverer,1
+19,Mom,23,RC Car,1
+19,Mom,24,Rex,2
+19,Mom,29,Slinky,2
+19,Mom,33,Woody,4
+7,Attendant,22,Pizza Deliverer,2
+9,Buzz Lightyear,22,Pizza Deliverer,1
+22,Pizza Deliverer,33,Woody,1
+8,Bo Peep,23,RC Car,1
+12,Hamm,23,RC Car,1
+20,Mr. Potato Head,23,RC Car,1
+23,RC Car,26,Sergeant,1
+6,Andy,24,Rex,3
+10,Friend #1,24,Rex,1
+11,Friend #2,24,Rex,1
+12,Hamm,24,Rex,6
+18,Mike,24,Rex,1
+20,Mr. Potato Head,24,Rex,10
+21,Mr. Spell,24,Rex,1
+23,RC Car,24,Rex,1
+24,Rex,25,Robot,1
+24,Rex,26,Sergeant,4
+24,Rex,27,Sid,1
+24,Rex,29,Slinky,6
+24,Rex,33,Woody,6
+12,Hamm,25,Robot,1
+16,Lenny,25,Robot,1
+25,Robot,27,Sid,1
+25,Robot,29,Slinky,1
+6,Andy,26,Sergeant,3
+10,Friend #1,26,Sergeant,1
+11,Friend #2,26,Sergeant,1
+12,Hamm,26,Sergeant,5
+18,Mike,26,Sergeant,1
+20,Mr. Potato Head,26,Sergeant,5
+21,Mr. Spell,26,Sergeant,1
+19,Mom,26,Sergeant,2
+26,Sergeant,33,Woody,4
+3,Alien #3,27,Sid,1
+4,Alien #4,27,Sid,1
+9,Buzz Lightyear,27,Sid,4
+12,Hamm,27,Sid,2
+16,Lenny,27,Sid,1
+27,Sid,29,Slinky,1
+27,Sid,33,Woody,5
+9,Buzz Lightyear,28,Sid's Mom,1
+27,Sid,28,Sid's Mom,1
+12,Hamm,29,Slinky,3
+18,Mike,29,Slinky,1
+20,Mr. Potato Head,29,Slinky,5
+21,Mr. Spell,29,Slinky,1
+23,RC Car,29,Slinky,1
+26,Sergeant,29,Slinky,3
+29,Slinky,33,Woody,9
+9,Buzz Lightyear,30,Space Commander,1
+14,Kid #1,30,Space Commander,1
+15,Kid #2,30,Space Commander,1
+17,Local Announcer,30,Space Commander,1
+30,Space Commander,31,TV Announcer,1
+30,Space Commander,32,TV Buzz,1
+15,Kid #2,31,TV Announcer,1
+17,Local Announcer,31,TV Announcer,1
+31,TV Announcer,32,TV Buzz,1
+17,Local Announcer,32,TV Buzz,1
+3,Alien #3,33,Woody,1
+4,Alien #4,33,Woody,1
+6,Andy,33,Woody,4
+7,Attendant,33,Woody,2
+10,Friend #1,33,Woody,1
+11,Friend #2,33,Woody,1
+16,Lenny,33,Woody,1
+18,Mike,33,Woody,1
+21,Mr. Spell,33,Woody,1
+23,RC Car,33,Woody,1
+25,Robot,33,Woody,1
+28,Sid's Mom,33,Woody,1
+29,Slinky,34,Wounded Soldier,1
